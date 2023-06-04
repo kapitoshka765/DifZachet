@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images/LEFT PANEL.svg</file>
+        <file>images/arrow.svg</file>
+        <file>images/DRAG_KALK.svg</file>
+        <file>images/OBM_AKC.svg</file>
+        <file>images/logo.png</file>
+        <file>images/SOS_AKC.svg</file>
+        <file>images/icon.ico</file>
+        <file>images/VAL_KALK.svg</file>
+        <file>images/LEFT PANEL_VAL_KALK.svg</file>
+        <file>images/LEFT PANEL_DRAG_KALK.svg</file>
+        <file>images/LEFT PANEL_OBM_AKC.svg</file>
+        <file>images/LEFT PANEL_SOS_AKC.svg</file>
+    </qresource>
+</RCC>

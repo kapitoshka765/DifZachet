@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="552" height="1038" viewBox="0 0 552 1038">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-5 {
+        fill: none;
+        stroke: #d2d2d2;
+        stroke-width: 5px;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-3 {
+        font-size: 3.489px;
+        text-anchor: end;
+        text-transform: uppercase;
+      }
+
+      .cls-3, .cls-4 {
+        font-family: HelveticaNeueCyr;
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        font-size: 0.985px;
+      }
+    </style>
+  </defs>
+  <g id="LEFT_PANEL" data-name="LEFT PANEL">
+    <path class="cls-1" d="M3200,787.01h548V1824.99H3200V787.01Z" transform="translate(-3200 -787)"/>
+    <circle id="Ellipse_1_copy" data-name="Ellipse 1 copy" class="cls-2" cx="491.5" cy="379.5" r="11.5"/>
+    <circle id="Ellipse_1_copy_3" data-name="Ellipse 1 copy 3" class="cls-2" cx="491.5" cy="446.5" r="11.5"/>
+    <circle id="Ellipse_1_copy_4" data-name="Ellipse 1 copy 4" class="cls-2" cx="491.5" cy="513.5" r="11.5"/>
+    <circle class="cls-2" cx="491.5" cy="312.5" r="11.5"/>
+    <circle id="Ellipse_1_copy_2" data-name="Ellipse 1 copy 2" class="cls-2" cx="491.5" cy="246.5" r="11.5"/>
+    <text id="_LSD_APM" data-name="“LSD” APM" class="cls-3" transform="translate(377.41 109.82) scale(15.231)">“LSD” APM</text>
+    <text id="MADE_BY" data-name="MADE BY" class="cls-4" transform="translate(73.411 905.82) scale(15.231)">MADE BY</text>
+    <text id="ALEKSEI_SHALNEV" data-name="ALEKSEI SHALNEV" class="cls-4" transform="translate(73.411 935.821) scale(15.231)">ALEKSEI SHALNEV</text>
+    <text id="ALEKSANDR_MAKSIMOV" data-name="ALEKSANDR MAKSIMOV" class="cls-4" transform="translate(73.411 950.822) scale(15.231)">ALEKSANDR MAKSIMOV</text>
+    <text id="DANIIL_SKORYUPIN" data-name="DANIIL SKORYUPIN" class="cls-4" transform="translate(73.411 965.822) scale(15.231)">DANIIL SKORYUPIN</text>
+    <path class="cls-5" d="M3205,969h543" transform="translate(-3200 -787)"/>
+    <path id="Shape_2_copy" data-name="Shape 2 copy" class="cls-5" d="M3205,1367h543" transform="translate(-3200 -787)"/>
+    <path id="Shape_2_copy_2" data-name="Shape 2 copy 2" class="cls-5" d="M3747.5,786.5v1039" transform="translate(-3200 -787)"/>
+  </g>
+</svg>
